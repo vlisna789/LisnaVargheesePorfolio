@@ -15,7 +15,7 @@ body {
   font-weight: 300;
   font-size: 16px;
   line-height: 1.7;
-  color: #828282;
+  color: #000;
   background: #fff;
 }
 
@@ -62,6 +62,7 @@ a:hover, a:active, a:focus {
 
 p {
   margin-bottom: 20px;
+  color: #000;
 }
 
 h1, h2, h3, h4, h5, h6, figure {
@@ -206,7 +207,7 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: 0.5s;
 }
 .fh5co-nav ul li a:hover, .fh5co-nav ul li a:focus, .fh5co-nav ul li a:active {
-  color: black;
+  color: #000;
 }
 .fh5co-nav ul li.has-dropdown {
   position: relative;
@@ -583,7 +584,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-heading p {
   font-size: 18px;
   line-height: 1.5;
-  color: #828282;
+  color: #000;
 }
 .fh5co-heading span {
   display: block;
@@ -679,7 +680,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 20px !important;
 }
 #fh5co-started .fh5co-heading p {
-  color: #685641;
+  color: #000;
 }
 #fh5co-started .btn {
   margin-top: 20px;
